@@ -1,0 +1,21 @@
+=encoding utf8
+
+=head1 Lua IRCd
+
+This is the Lua IRCd created by: Joshua Jensen, url: http://lua-users.org/lists/lua-l/2008-02/msg00451.html
+
+=head2 Description
+
+In my journey learning Lua i came across this script in the Lua mailing list. Its an irc server. 
+
+I tried to run it in Lua 5.2 and some functions used in script are deprecated. So i had to fix them and now the script seems funcional. Im not sure if every usual irc feature is avaliable. But its an interesting piece of code.
+
+=head3 Original Author
+
+Joshua Jensen - http://lua-users.org/lists/lua-l/2008-02/msg00451.html - from the Lua mailing list
+
+=head3 Author
+
+Hernan Lopes
+
+
