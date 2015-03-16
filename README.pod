@@ -4,6 +4,8 @@
 
 This is the Lua IRCd created by: Joshua Jensen, url: http://lua-users.org/lists/lua-l/2008-02/msg00451.html
 
+*** with minor updates to work in 5.2
+
 =head2 Description
 
 In my journey learning Lua i came across this script in the Lua mailing list. Its an irc server. 
